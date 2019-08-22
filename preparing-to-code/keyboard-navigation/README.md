@@ -18,9 +18,9 @@ Fill in the table below with the matching macOS shortcuts, if you don't know the
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | |
-| Paste | |
-| Cut | |
+| Copy | | cmd + c
+| Paste | | cmd + v
+| Cut | | 
 | Save | |
 | Select | |
 | Undo | |
