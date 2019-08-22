@@ -18,16 +18,16 @@ Fill in the table below with the matching macOS shortcuts, if you don't know the
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | | cmd + c
-| Paste | | cmd + v
-| Cut | | 
-| Save | |
+| Copy | cmd + c | 
+| Paste | cmd + v | 
+| Cut | cmd + x | 
+| Save | cmd + s |
 | Select | |
-| Undo | |
-| Redo | |
-| Find | |
-| Switch app | |
-| Open spotlight search | |
+| Undo | cmd + z |
+| Redo | cmd + shift + z|
+| Find | cmd + f |
+| Switch app | cmd + tab |
+| Open spotlight search | cmd + spacebar |
 | Force quit | |
 | Full-screen screen shot | |
 | User-defined region screen shot | |
