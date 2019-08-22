@@ -22,15 +22,15 @@ Fill in the table below with the matching macOS shortcuts, if you don't know the
 | Paste | cmd + v | 
 | Cut | cmd + x | 
 | Save | cmd + s |
-| Select | |
+| Select | cmd + a |
 | Undo | cmd + z |
 | Redo | cmd + shift + z|
 | Find | cmd + f |
 | Switch app | cmd + tab |
 | Open spotlight search | cmd + spacebar |
-| Force quit | |
-| Full-screen screen shot | |
-| User-defined region screen shot | |
+| Force quit | option + cmd + esc|
+| Full-screen screen shot | Control+Cmd+F |
+| User-defined region screen shot | Shift-Command-5 |
 
 ## macOS overview
 
