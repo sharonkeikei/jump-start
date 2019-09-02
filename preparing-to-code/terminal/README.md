@@ -65,14 +65,14 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | |
-| `man ls` | |
-| `q` | |
-| `pwd` | |
-| `cd ~` | |
-| `cd .` | |
-| `cd ..` | |
-| `cd -` | |
+| `ls -a .` | Listed all directory including the hidden ones that start wiht . |
+| `man ls` | It shows BSD General Commands Manual |
+| `q` | to quit  |
+| `pwd` | to display the current location - Present Working Directory|
+| `cd ~` | the location became ~ |
+| `cd .` | nothing changed, stay in current directory |
+| `cd ..` | moving one file up |
+| `cd -` | showing the detailed location info |
 
 Then use `man` to explore these commands.  For example try `man ls` in terminal.  You can exit with the `q` key.
 
