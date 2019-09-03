@@ -116,27 +116,27 @@ i = 1.5
 
 | Operation | Result | Data type of result |
 | :---: | :---:| :---: |
-| `d + e` | 15.0 | |
-| `f + h` | 5 | |
-| `g + h` | 14.0 | |
-| `d - f` | 8 | |
-| `g - e` | 6.0 | |
-| `(h + i) - f` | 2.5 | |
-| `(d - f) + e` | 13.0 | |
-| `d * f` | 20 | | |
-| `g * i` | 16.5 | | |
-| `f * g` | 22.0 | | |
-| `d / f` | 5 | | |
-| `d / e` | 2.0 | | |
-| `e / f` | 2.5 | | |
-| `(g * f) / f` | 11.0 | | |
-| `(d / f) * e` | 25.0 | | |
-| `21 / 5` | 4 | | |
-| 14 / 5 | 2 | | |
-| 10 % 3 | 1 | | |
-| 20 % 2 | 0 | | |
-| 4 % 5 | 4 | | |
-| 8 % 1 | 0 | | |
+| `d + e` | 15.0 | Float |
+| `f + h` | 5 | Integer  |
+| `g + h` | 14.0 | Float |
+| `d - f` | 8 | Integer |
+| `g - e` | 6.0 | Float |
+| `(h + i) - f` | 2.5 | Float |
+| `(d - f) + e` | 13.0 | Float |
+| `d * f` | 20 | Integer | |
+| `g * i` | 16.5 | Float | |
+| `f * g` | 22.0 | Float | |
+| `d / f` | 5 | Integer | |
+| `d / e` | 2.0 | Float | |
+| `e / f` | 2.5 | Float | |
+| `(g * f) / f` | 11.0 | Float | |
+| `(d / f) * e` | 25.0 | Float | |
+| `21 / 5` | 4 | Integer | |
+| 14 / 5 | 2 | Integer  | |
+| 10 % 3 | 1 | Integer | |
+| 20 % 2 | 0 | Integer | |
+| 4 % 5 | 4 | Integer | |
+| 8 % 1 | 0 | Integer | |
 
 ## String practice
 
