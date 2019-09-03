@@ -9,6 +9,16 @@ Assume that the `x` and `y` variable data comes from user input prior to the con
 
 ![flow control assignment](./images/flow-control-assignment.png)
 
+if x == y 
+   print "equal"
+elsif x < y 
+   print "less"
+else 
+   print "greater"
+end
+
+
+
 2. Now we will go the other way! Using the code below create the flow control diagram that would represent it.
 
       ```ruby
