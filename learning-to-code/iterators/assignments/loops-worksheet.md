@@ -221,6 +221,10 @@ Total : 6
   end
 end
 ```
+
+Answer:
+You got a winnier!
+
 | Count |i| Output |
 |:---: |:--- |:--- |
 | 1 | 1 | - |
@@ -244,7 +248,7 @@ while i < 3
   i = i + 1
 end
 ```
-answer: 
+Answer: 
 hi
 hi
 hi
@@ -289,7 +293,7 @@ while i < 3
   puts i
 end
 ```
-answer:
+Answer:
 1
 2
 3
@@ -371,7 +375,7 @@ while i < 100
   i = i * 100
 end
 ```
-Answe:
+Answer:
  o hai
  
 | Count |i| Output |
