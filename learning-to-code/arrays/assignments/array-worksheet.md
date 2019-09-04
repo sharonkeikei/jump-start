@@ -22,8 +22,8 @@ puts random_data[2] + 10
 puts random_data[1] + random_data[0]
 ```
 Answer: 
-99
-11
+99,
+11,
 ab
 
 
@@ -38,7 +38,7 @@ puts numeric_data.length
 puts numeric_data[1]
 ```
 Answer: 
-4
+4,
 4
 
 3.
@@ -47,7 +47,8 @@ my_array = ["dog", 5, "cat", 2, "horse", 1]
 puts my_array[6]
 puts my_array.last
 ```
-empty
+Answer: 
+empty,
 1
 
 4.
@@ -56,7 +57,8 @@ numbers = Array.new(3)
 puts numbers.length
 puts numbers.first
 ```
-3
+Answer:
+3,
 empty
 
 
@@ -68,5 +70,6 @@ student_names << "Grumpy Cat"
 puts student_names[1]
 puts student_names[25]
 ```
-Student
+Answer:
+Student,
 Grumpy Cat
