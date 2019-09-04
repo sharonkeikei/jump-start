@@ -48,7 +48,7 @@ puts my_array[6]
 puts my_array.last
 ```
 Answer: 
-empty,
+nil,
 1
 
 4.
@@ -59,7 +59,7 @@ puts numbers.first
 ```
 Answer:
 3,
-empty
+nil 
 
 
 5.
