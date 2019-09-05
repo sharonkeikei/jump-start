@@ -30,4 +30,4 @@ end
 5.times do
     puts stuNames[classNum], stuIDs[classNum], studEmails[classNum]
     classNum +=1
-end
+endtuby
