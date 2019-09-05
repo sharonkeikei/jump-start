@@ -4,21 +4,19 @@ studEmails = []
 n = 0
 classNum = 0
 
+# getting student names from user
 5.times do
     puts "Please enter student's name"
     name = gets.chomp.upcase
     stuNames << name
 end
 
-puts stuNames
-
-
+# generating random number for each student
 5.times do
     stuIDs << (rand 111111..999999)
 end
 
-puts stuIDs
-
+# list out each student info : Name , ID , Email
 5.times do
     firstInitial = stuNames[n].slice(0)
     lastName = stuNames[n].split(" ")[1]
@@ -27,7 +25,8 @@ puts stuIDs
     n += 1
 end
 
+puts "Students List: "
 5.times do
     puts stuNames[classNum], stuIDs[classNum], studEmails[classNum]
-    classNum +=1
-endtuby
+    classNum +=1 
+end
