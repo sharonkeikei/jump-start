@@ -25,6 +25,10 @@ person = {
 puts person.length
 puts person["last_name"]
 ```
+Answer: 
+3
+lovelace
+
 
 2.
 ```ruby
@@ -37,6 +41,10 @@ animals["cat"] = "feline"
 puts animals["dog"]
 puts animals["donkey"]
 ```
+Answer:
+canine
+nil
+
 
 3.
 ```ruby
@@ -50,6 +58,11 @@ workout_summary["lunges"] = 101
 puts workout_summary["lunges"]
 ```
 
+Answer:
+101
+
+
+
 4.
 ```ruby
 menu = {}
@@ -60,6 +73,13 @@ puts menu.length
 puts menu["burger"]
 puts menu["tater_tots"]
 ```
+
+Answer: 
+3,
+bleu sun,
+nil
+
+
 
 Hash problems with hashes using symbol notation:
 
@@ -75,6 +95,11 @@ puts person.length
 puts person[:last_name]
 ```
 
+Answer:
+3
+lovelace
+
+
 6.
 ```ruby
 human_being = {
@@ -88,6 +113,10 @@ puts human_being.length
 puts "The only living species of genus #{human_being[:genus]} are #{human_being[:species]}."
 puts human_being[:meaning].length
 ```
+Answer:
+4
+The only living species of genus Homo are Spaiens.
+
 
 7.
 ```ruby
@@ -101,6 +130,8 @@ oatmeal_raisin = {
 
 puts oatmeal_raisin.length
 
+
+
 if oatmeal_raisin[:dairy_free]
   puts "Oatmeal raisin cookies are dairy free."
 end
@@ -112,3 +143,7 @@ if !oatmeal_raisin[:gluten_free] || !oatmeal_raisin[:vegan]
   puts "The oatmeal raisin cookie is either not gluten free or not vegan."
 end
 ```
+Answer: 5, 
+Oatmeal raisin cookies are dairy free. ,
+nuts, soy
+The oatmeal raisin cookie is either not gluten free or not vegan.
