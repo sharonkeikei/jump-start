@@ -21,7 +21,7 @@ end
     firstInitial = stuNames[n].slice(0)
     lastName = stuNames[n].split(" ")[1]
     last3Digits = stuIDs[n].to_s.slice(3...6)    
-    studEmails << firstInitial+lastName+last3Digits+"@adadevelopersacademy.org" 
+    studEmails << "#{firstInitial}#{lastName}#{last3Digits}@adadevelopersacademy.org" 
     n += 1
 end
 
